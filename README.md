@@ -246,7 +246,7 @@ Expect response to be:
     },
    ...
 ]
-````
+```` 
 
 **To return all albums from an artist of your choice:**
 
